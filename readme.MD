@@ -72,6 +72,8 @@ Professionally, I am deeply involved in cloud architecture, software development
 ## 🌱 I’m currently diving deep into:
 
 - **AWS Architecture**:
+  - Using Terraform to provision AWS resources.
+  - Ansible configuration of AWS resources.
   - Building secure and scalable VPCs with multiple subnets.
   - Implementing NAT Gateways to allow private servers Internet access via a public server on the same VPC.
   - Configuring Security Groups and NACLs for robust security measures.
